@@ -1,2 +1,2 @@
 # sampleRepo
-HOORAY!! this is my first file in github!
+HOORAY!! HAHAH KEVIN HaXeD YOUR FILE. I am GITHUB!
