@@ -1,2 +1,2 @@
 # sampleRepo
-HOORAY!! this is my first file in github!
+HOORAY!! this is my first real readme file in github!
